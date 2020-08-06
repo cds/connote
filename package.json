@@ -1,0 +1,22 @@
+{
+  "name": "connote",
+  "version": "1.0.0",
+  "description": "Connote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cds/connote.git"
+  },
+  "keywords": [
+    "Connote"
+  ],
+  "author": "cds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cds/connote/issues"
+  },
+  "homepage": "https://github.com/cds/connote#readme"
+}
